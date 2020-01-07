@@ -318,7 +318,7 @@ function Init()
   m=NewModule()
   m.category='English'
   m.website='MangaDex'
-  m.rooturl='https://mangadex.org'
+  m.rooturl='https://mangadex.cc'
   m.lastupdated='February 28, 2018'
   m.ongetinfo='getinfo'
   m.ongetpagenumber='getpagenumber'
